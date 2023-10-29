@@ -1,0 +1,13 @@
+body{
+background-color:rgb(245, 225, 237);
+}
+canvas{
+border: 1px solid black;
+text-align: center;
+}
+h1{
+color:rgb(19, 169, 233);
+font-size:50px;
+text-align: center;
+font-weight:bolder;
+}
